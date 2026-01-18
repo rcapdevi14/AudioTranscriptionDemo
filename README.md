@@ -20,11 +20,11 @@ Note: If you receive the message "You have 1 file with uncommitted changes from 
 
 1.5) Install recommended Python extension. Click on "bash" next to the terminal.   
 
-1.6) run in the terminal:   sudo apt update && sudo apt install ffmpeg -y          ### FFmpeg is needed for pydub
+1.6) run in the terminal:   sudo apt update && sudo apt install ffmpeg -y          (FFmpeg is needed for pydub)
 
 1.7) run in the terminal:   pip install -r requirements.txt
 
-1.8) run python file!                                                              ### No need to create a virtual environment!
+1.8) run python file!                                                              (No need to create a virtual environment!)
 
 1.9) Drag new audio files into the file space to the left. Modify transcribe.py and run again!
 
