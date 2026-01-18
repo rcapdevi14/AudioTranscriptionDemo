@@ -9,7 +9,7 @@ The script can be found in "transcribe.py." There are two simple ways to run it:
 
 Note: If you receive the message "You have 1 file with uncommitted changes from a previous edit session... You are 1 commit behind." simply click on "Sync."
 
-1.1) In the menu bar to the left, click on "Terminal" and "New Terminal."
+1.1) In the menu bar to the left, click on "Terminal" and "New Terminal." \\
 1.2) Then "Continue working on github codespaces."
 1.3) Choose "2 cores, 8GB ram, 32 GB storage."
 1.4) A new window should open. Click on the "transcribe.py" file.
